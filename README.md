@@ -1,4 +1,4 @@
-# GESIS Summer School in Survey Methodology 2018: Meta-Analysis in Social Research and Survey Methodology
+# Two-day workshop at the DJI, Munich, 2019: Meta-Analysis in Social Research
 
 To start the exercises and the Jupyter notebooks, push the "launch binder" button. It hopefully takes only about 30 seconds to start the notebook. Then open the folder `/notebooks`.
 
