@@ -2,7 +2,7 @@
 
 To start the exercises and the Jupyter notebooks, push the "launch binder" button. It hopefully takes only about 30 seconds to start the notebook. Then open the folder `/notebooks`.
 
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/berndweiss/gesis-meta-analysis-2018/master)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/berndweiss/dji-meta-analysis-2019/master)
 
 If the first link does not work, please use the following "launch binder" button.
 
