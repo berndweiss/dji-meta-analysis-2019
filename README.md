@@ -6,7 +6,7 @@ To start the exercises and the Jupyter notebooks, push the "launch binder" butto
 
 If the first link does not work, please use the following "launch binder" button.
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/berndweiss/gesis-meta-analysis-2018/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/berndweiss/dji-meta-analysis-2019/master)
 
 Please also note:
 
