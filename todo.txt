@@ -1,8 +1,0 @@
-index.org fertig machen und auf berndweiss.net hochladen
-
-- check, dass alle notebooks und lösungen hochgeladen wurden
-- check, dass berndweiss.net/dji inhalte enthält, link auf github
-  - folien
-  - r folien
-  - link github
-  - artikel
