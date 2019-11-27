@@ -1,4 +1,3 @@
-
 source("run_me_first.R")
 trial	numeric	trial number
 author	character	author(s)

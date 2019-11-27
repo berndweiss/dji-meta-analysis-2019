@@ -1,10 +1,11 @@
-
 source("run_me_first.R")
 
 ## Solution.
 library(metafor)
 dat.bcg <- escalc(measure = "RR", ai = tpos, bi = tneg, ci = cpos, di = cneg, data = dat.bcg)
 forest(x = dat.bcg$yi, vi = dat.bcg$vi)
+
+
 
 dat.bcg
 
