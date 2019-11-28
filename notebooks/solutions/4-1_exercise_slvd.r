@@ -53,5 +53,5 @@ summary(mdl3_grouped)
 
 ## - a negative value means that the vaccine indeed works.
 ## - 0 means there is no effect at all, yi > 0 means the vaccine is harmful.
-###  - vaccine works better in cntries for lattitudes bw. 34 and 90 
+##  - vaccine works better in cntries for lattitudes bw. 34 and 90 
 
