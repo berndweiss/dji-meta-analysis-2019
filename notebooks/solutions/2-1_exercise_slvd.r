@@ -11,6 +11,7 @@ alloc	character	method of treatment allocation (random, alternate, or systematic
 ## Solution.
 library(metafor)
 dat.bcg <- escalc(measure = "RR", ai = tpos, bi = tneg, ci = cpos, di = cneg, data = dat.bcg)
+## escalc() returns the log(RR).
 
 ## Solution.
 dat.bcg
